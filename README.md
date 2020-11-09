@@ -1,4 +1,3 @@
-# Hi there 👋
 
 <!--
 **santbetv/santbetv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +18,8 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m a systems and telecommunications engineer.
+- ⚡ I’m Oracle Certified Associate, Java
+- 🌱 I keep constantly learning ...
 - 💬 Ask me about software development.
 - 📫 How to reach me: www.linkedin.com/in/santiago-betancur-villegas-4260a519a
 - 📫 How to reach me: santiago-betancur@hotmail.com
