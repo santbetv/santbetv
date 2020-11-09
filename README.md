@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hi. I'm Santiago Betancur Villegas 👋
 
 
-- 🔭 I’m a systems and telecommunications engineer.
+- 🔭 I’m a Systems and Telecommunications Engineer.
 - ⚡ I’m Oracle Certified Associate, Java
 - 🌱 I keep constantly learning ...
 - 💬 Ask me about software development.
