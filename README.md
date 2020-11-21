@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m a Systems and Telecommunications Engineer.
-- ⚡ I’m Oracle Certified Associate, Java
+- ⚡ I’m Oracle Certified Associate, Java OCA
 - 🌱 I keep constantly learning ...
 - 💬 Ask me about software development.
 - 📫 How to reach me: www.linkedin.com/in/santiago-betancur-villegas-4260a519a
