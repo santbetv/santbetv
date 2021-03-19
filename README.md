@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Technologies
 
+![SpringBoot](https://img.shields.io/badge/-java-red?style=flat-square&logo=SpringBoot)
 ![Java](https://img.shields.io/badge/-java-red?style=flat-square&logo=java)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
