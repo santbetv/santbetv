@@ -26,9 +26,11 @@ Here are some ideas to get you started:
 
 ## ⚡ Technologies
 
-![Spring](https://img.shields.io/badge/-SpringBoot-green?style=flat-square&logo=Spring)
+![Spring](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=Spring)
 ![Java](https://img.shields.io/badge/-java-red?style=flat-square&logo=java)
+![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Angular](https://img.shields.io/badge/-Angular-FFF?style=flat&logo=angular&logoColor=DD0C31)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
