@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 Soy Santiago Betancur Villegas</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Systems+and+Telecommunications+Engineer;Oracle+Certified+Java+Developer;Full+Stack+Software+Engineer;Always+Learning+Something+New..." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Systems+and+Telecommunications+Engineer;Oracle+Certified+Java+Developer;DevOps+Stack+Software+Engineer;Always+Learning+Something+New..." />
 </p>
 
 ---
