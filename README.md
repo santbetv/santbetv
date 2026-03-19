@@ -21,6 +21,11 @@
 
 ### 🧰 Tecnologías y Herramientas
 
+#### 🔁 IA 
+![Cloude Code](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=claude)
+![ChatGpt](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=chatgpt)
+![Gemini](https://img.shields.io/badge/BitBucket-0052CC?style=flat-square&logo=gemini)
+
 #### ⚙️ Backend
 ### 🧰 Tecnologías y Herramientas
 
